@@ -1,0 +1,10 @@
+{
+  "name": "pia",
+  "bin": {"pia": "bin/pia"},
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "vs-stun": "*",
+    "optimist": "*"
+  }
+}
