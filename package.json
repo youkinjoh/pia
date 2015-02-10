@@ -1,10 +1,25 @@
 {
   "name": "pia",
-  "bin": {"pia": "bin/pia"},
-  "version": "0.0.1",
+  "description": "Display public and private IP address. (use STUN server)",
+  "version": "0.0.2",
+  "author": "You Kinjoh <you.kinjoh@gmail.com>",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/youkinjoh/pia.git"
+  },
+  "keywords": [
+    "ip address",
+    "port",
+    "turn",
+    "webrtc",
+    "nat",
+    "cli",
+    "tools"
+  ],
   "dependencies": {
     "vs-stun": "*",
     "optimist": "*"
-  }
+  },
+  "bin": {"pia": "bin/pia"}
 }
