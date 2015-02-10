@@ -1,7 +1,7 @@
 {
   "name": "pia",
   "description": "Display public and private IP address. (use STUN server)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "You Kinjoh <you.kinjoh@gmail.com>",
   "private": false,
   "repository": {
@@ -11,7 +11,7 @@
   "keywords": [
     "ip address",
     "port",
-    "turn",
+    "stun",
     "webrtc",
     "nat",
     "cli",
