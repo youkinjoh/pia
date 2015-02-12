@@ -16,6 +16,12 @@ $ pia -j -g -i -t
 $ pia --display-stun --specify-stun "stun.l.google.com:19302"
 ```
 
+## Practical Use
+
+```
+$ pia -s | xargs whois
+```
+
 ## Options
 
 ```

@@ -1,8 +1,9 @@
 {
   "name": "pia",
   "description": "Display public and private IP address. (use STUN server)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "You Kinjoh <you.kinjoh@gmail.com>",
+  "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
@@ -21,5 +22,5 @@
     "vs-stun": "*",
     "optimist": "*"
   },
-  "bin": {"pia": "bin/pia"}
+  "bin": {"pia": "./bin/pia"}
 }
