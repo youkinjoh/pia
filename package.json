@@ -1,7 +1,7 @@
 {
   "name": "pia",
   "description": "Display public and private IP address. (use STUN server)",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "You Kinjoh <you.kinjoh@gmail.com>",
   "license": "MIT",
   "private": false,
